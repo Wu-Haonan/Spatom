@@ -6,9 +6,7 @@ This software is free to use, modify, redistribute without any restrictions, exc
 
 Spatom can be used under both Linux and Windows environments. The Spatom is hosted on our webserver ([http://liulab.top/Spatom/server](http://118.190.151.48/Spatom/server)).
 
-<p align="center">
-    <img src="[/Spatom/IMG/workflow_Spatom.png](https://github.com/Wu-Haonan/Spatom/blob/master/IMG/Spatom_workflow.png)" width="100%">
-</p>
+![Spatom](https://github.com/Wu-Haonan/Spatom/blob/master/IMG/Spatom_workflow.png)
 
 # Requirements
 
