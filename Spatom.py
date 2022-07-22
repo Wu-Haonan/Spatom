@@ -318,7 +318,7 @@ def predict(protein,chain,pdb_file,output_path,PSSM,CX_DPX_file):
                 for k, i in enumerate(pos):
                     predict_protein[i] = pred[k]
                 all_pred.extend(predict_protein)
-        result = np.where(np.array(all_pred) > 0.23, 1, 0).tolist()
+        result = np.where(np.array(all_pred) > 0.29, 1, 0).tolist()
         protein = args.protein
         chain = args.chain
         f = open(output_path + 'predict_' + protein + '_' + chain + '.txt', 'w')
