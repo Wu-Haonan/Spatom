@@ -103,6 +103,12 @@ $ python Spatom.py -p 1A2K -m ./sample_test/PSSM -b ./sample_test/real_PDB/1A2K.
 
 Please check your PDB file first. If the PDB file misses some important atoms, please use a software (e.g. , [PDBFixer](https://github.com/openmm/pdbfixer)) to fix it.
 
+# Citation
+
+If you use this code, please cite 
+
+Haonan Wu, Jiyun Han, Shizhuo Zhang, Gaojia Xin, Chaozhou Mou, Juntao Liu, Spatom: a graph neural network for structure-based protein–protein interaction site prediction, Briefings in Bioinformatics, Volume 24, Issue 6, November 2023, bbad345, https://doi.org/10.1093/bib/bbad345
+
 # Contact
 
 Any questions, problems, bugs are welcome and should be dumped to Haonan Wu <hnw.bio@outlook.com>.
